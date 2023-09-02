@@ -1,0 +1,15 @@
+{
+  "name": "gobot",
+  "version": "1.0.0",
+  "description": "wa bot untuk gokreasi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.1",
+    "express": "^4.18.2"
+  }
+}
